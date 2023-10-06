@@ -1,3 +1,3 @@
 #Sample git readme file
 
-<<<
+<<<\\\\
